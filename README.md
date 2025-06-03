@@ -25,3 +25,6 @@ Today I explored statistical relationships between key NBA performance metrics u
 📸 Visual below + full notebook available on GitHub: https://github.com/elem86/day16
 
 #Python #DataVisualization #NBAStats #SportsAnalytics #Correlation #DataScience #Matplotlib #Seaborn #OneProjectADay #OpenToWork #Day16
+
+
+![day16](https://github.com/user-attachments/assets/5babe0eb-de9c-418b-b9fc-f490d9335925)
